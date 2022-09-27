@@ -9,7 +9,7 @@ Items marked with ![Open Access paper][Open Access Icon] are open access.
 - [Benbya et al. (2019)](https://www.misqresearchcurations.org/blog/2019/3/14/information-systems-alignment) - _MISQ Curation_ on IS alignment and misalignment ![Open Access paper][Open Access Icon]
 - [Davis (1989) _MISQ_](https://doi.org/10.2307/249008) (doi: `10.2307/249008`) - the original paper on the Technology Acceptance Model (TAM)
 - [Norman (1999)](https://doi.org/10.1145/301153.301168) (doi: `10.1145/301153.301168`) - reasonably easy paper, from the _Interactions_ journal, to cite re: affordances in Human-Computer Interaction (HCI), building on the work of [James Gibson](https://en.wikipedia.org/wiki/James_J._Gibson) on ecology and perception ![Open Access paper][Open Access Icon]
-- [Sirmon et al. (2010)](https://doi.org/10.1177/0149206310385695) (doi: `10.1177/0149206310385695`) - the original _Journal of Management_ paper on Resource Orchestration ![Open Access paper][Open Access Icon]
+- [Sirmon et al. (2010)](https://doi.org/10.1177/0149206310385695) (doi: `10.1177/0149206310385695`) - the original _Journal of Management_ paper on Resource Orchestration
 - [Teece et al. (1998)](https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0266(199708)18:7%3C509::AID-SMJ882%3E3.0.CO;2-Z) - original _Strategic Management Journal_ paper on Dynamic Capabilities ![Open Access paper][Open Access Icon]
 
 ## Social Theory
