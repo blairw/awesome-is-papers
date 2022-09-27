@@ -15,13 +15,16 @@ Items marked with ![Open Access paper][Open Access Icon] are open access. Otherw
 ## Social Theory
 
 - [Doolin (1998) _JIT_](https://doi.org/10.1057/jit.1998.8) (doi: `10.1057/jit.1998.8`) - IS and power relations in organisations, based on the critical theory of [Michel Foucault] and sociology of technology
+- [Sergeeva et al. (2017) _MISQ_](https://doi.org/10.25300/MISQ/2017/41.4.07) - unintended audiences and unintended consequences of IS
 - [Thornton and Ocasio (2008)](https://doi.org/10.4135/9781849200387.n4) (doi: `10.4135/9781849200387.n4`) - reasonably good _SAGE Reference_ chapter on the Institutional Logics Perspective (ILP)
 
 ## Research Approaches and Methods
 
 - [Cecez-Kecmanovic and Kennan (2013)](https://www.researchgate.net/publication/236004781_1_Cecez-Kecmanovic_D_Kennan_MA_2013_Chapter_5_The_methodological_landscape_Information_systems_and_knowledge_management_in_Research_Methods_Information_Systems_and_Contexts_Williamson_K_Johanson_G_eds) - book chapter on IS research methods and 'methodological landscape' ![ResearchGate][ResearchGate Icon]
+- [Doolin (1996) _AJIS_](https://doi.org/10.3127/ajis.v3i2.383) (doi: `10.3127/ajis.v3i2.383`) - outline of different ways of doing case study research in IS, notably using the vocabulary of 'confirmatory' vs. 'exploratory' research ![Open Access paper][Open Access Icon]
 - [Miranda et al. (2022) _MISQ_](https://aisel.aisnet.org/misq/vol46/iss2/4/) - Computationally Intensive Theory Construction
 - [Sandberg and Alvesson (2010)](https://doi.org/10.1177/1350508410372151) - _Organization_ paper constructing research questions: gap-spotting vs. problematization
+- [Urquhart and Fernández (2013) _JIT_](https://doi.org/10.1057/jit.2012.34) (doi: `10.1057/jit.2012.34`) - great overview of Grounded Theory Method (GTM) including "the researcher as blank slate and other myths"
 
 ## IS Discipline and IS Editorials
 
