@@ -2,6 +2,11 @@
 
 Research papers from Information Systems (IS) and reference disciplines
 
+## Technology Acceptance and Value Extraction
+
+- [Davis (1989) _MISQ_](https://doi.org/10.2307/249008) (doi: `10.2307/249008`) - the original paper on the Technology Acceptance Model (TAM)
+- [Norman (1999)](https://doi.org/10.1145/301153.301168) (doi: `10.1145/301153.301168`) - reasonably easy paper to cite re: affordances in Human-Computer Interaction (HCI), building on the work of [James Gibson](https://en.wikipedia.org/wiki/James_J._Gibson)
+
 ## Research Methods
 
 - [Miranda et al. (2022) _MISQ_](https://aisel.aisnet.org/misq/vol46/iss2/4/) - Computationally Intensive Theory Construction
