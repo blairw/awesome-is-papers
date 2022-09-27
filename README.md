@@ -2,7 +2,7 @@
 
 Research papers from Information Systems (IS) and reference disciplines. Inspired by [awesome-mac](https://github.com/jaywcjlove/awesome-mac) and similar projects.
 
-Items marked with ![Open Access paper][Open Access Icon] are open access.
+Items marked with ![Open Access paper][Open Access Icon] are open access. Otherwise, items marked with ![ResearchGate][ResearchGate Icon] are not fully Open Access but have been made available by the authors, in some capacity, on ResearchGate.
 
 ## Technology Acceptance and Value Extraction
 
@@ -19,6 +19,7 @@ Items marked with ![Open Access paper][Open Access Icon] are open access.
 
 ## Research Approaches and Methods
 
+- [Cecez-Kecmanovic and Kennan (2013)](https://www.researchgate.net/publication/236004781_1_Cecez-Kecmanovic_D_Kennan_MA_2013_Chapter_5_The_methodological_landscape_Information_systems_and_knowledge_management_in_Research_Methods_Information_Systems_and_Contexts_Williamson_K_Johanson_G_eds) - book chapter on IS research methods and 'methodological landscape' ![ResearchGate][ResearchGate Icon]
 - [Miranda et al. (2022) _MISQ_](https://aisel.aisnet.org/misq/vol46/iss2/4/) - Computationally Intensive Theory Construction
 - [Sandberg and Alvesson (2010)](https://doi.org/10.1177/1350508410372151) - _Organization_ paper constructing research questions: gap-spotting vs. problematization
 
@@ -31,3 +32,4 @@ Items marked with ![Open Access paper][Open Access Icon] are open access.
 
 
 [Open Access Icon]:https://blairw.github.io/awesome-is-papers/icons/Open_Access_logo_PLoS_white_14tall.svg "Open Access"
+[ResearchGate Icon]:https://blairw.github.io/awesome-is-papers/icons/ResearchGate_icon_SVG_14tall.svg "ResearchGate"
