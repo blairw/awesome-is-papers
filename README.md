@@ -9,12 +9,17 @@ URLs are based on [DOIs](https://en.wikipedia.org/wiki/Digital_object_identifier
 ## Technology Acceptance and Value Extraction
 
 - [Benbya et al. (2019)](https://www.misqresearchcurations.org/blog/2019/3/14/information-systems-alignment) - _MISQ Curation_ on IS alignment and misalignment ![Open Access paper][Open Access Icon]
+- [Cho et al. (2007) _JIT_](https://doi.org/10.1057/palgrave.jit.2000088) - organisational resilience, fragility, and technological innovation diffusion
 - [Davis (1989) _MISQ_](https://doi.org/10.2307/249008) - the original paper on the Technology Acceptance Model (TAM)
 - [Norman (1999)](https://doi.org/10.1145/301153.301168) - reasonably easy paper, from the _Interactions_ journal, to cite re: affordances in Human-Computer Interaction (HCI), building on the work of [James Gibson](https://en.wikipedia.org/wiki/James_J._Gibson) on ecology and perception ![Open Access paper][Open Access Icon]
 - [Sirmon et al. (2010)](https://doi.org/10.1177/0149206310385695) - the original _Journal of Management_ paper on Resource Orchestration
 - [Teece et al. (1998)](https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0266(199708)18:7%3C509::AID-SMJ882%3E3.0.CO;2-Z) - original _Strategic Management Journal_ paper on Dynamic Capabilities ![Open Access paper][Open Access Icon]
 
-## Social Theory
+## IT Project Management
+
+- [Ciriello et al. (2022) _I&M_](https://doi.org/10.1016/j.im.2022.103645) - 'becoming agile together' with the customer
+
+## Society, Institutions and Power
 
 - [Doolin (1998) _JIT_](https://doi.org/10.1057/jit.1998.8) - IS and power relations in organisations, based on the work of [Michel Foucault](https://en.wikipedia.org/wiki/Michel_Foucault) and sociology of technology
 - [Sergeeva et al. (2017) _MISQ_](https://doi.org/10.25300/MISQ/2017/41.4.07) - unintended audiences and unintended consequences of IS
@@ -27,13 +32,20 @@ URLs are based on [DOIs](https://en.wikipedia.org/wiki/Digital_object_identifier
 - [Miranda et al. (2022) _MISQ_](https://aisel.aisnet.org/misq/vol46/iss2/4/) - Computationally Intensive Theory Construction
 - [Sandberg and Alvesson (2010)](https://doi.org/10.1177/1350508410372151) - _Organization_ paper constructing research questions: gap-spotting vs. problematization
 - [Urquhart and Fernández (2013) _JIT_](https://doi.org/10.1057/jit.2012.34) - great overview of Grounded Theory Method (GTM) including "the researcher as blank slate and other myths"
+- [Walsham (1995) _EJIS_](https://doi.org/10.1057/ejis.1995.9) and [Walsham (2006) _EJIS_](https://doi.org/10.1057/palgrave.ejis.3000589) - how to do interpretive/interpretivist IS research
 
 ## IS Discipline and IS Editorials
 
+- [Clarke and Davison (2020) _JAIS_](https://doi.org/10.17705/1jais.00609) - whose perspectives are (not) considered in IS research?
 - [Hirschheim and Klein (2012) _JAIS_](https://doi.org/10.17705/1jais.00294) - "glorious and not-so-short history" of IS discipline
 - [Rai (2017) _MISQ_](https://aisel.aisnet.org/misq/vol41/iss2/2/) - "formulating IS research problems that matter"
   - Notable for the _"affirming that gravity works in my kitchen"_ quote (p. vi)
 - [Sarker et al. (2019) _MISQ_](https://doi.org/10.25300/MISQ/2019/13747) - "sociotechnical axis of cohesion for the IS discipline"
+
+## Literature Review
+
+- [Boell and Cecez-Kecmanovic (2014) _CAIS_](https://doi.org/10.17705/1CAIS.03412) - hermeneutic approach to IS literature review
+
 
 
 [Open Access Icon]:https://blairw.github.io/awesome-is-papers/icons/Open_Access_logo_PLoS_white_14tall.svg "Open Access"
