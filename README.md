@@ -32,7 +32,7 @@ URLs are based on [DOIs](https://en.wikipedia.org/wiki/Digital_object_identifier
 - [Doolin (1996) _AJIS_](https://doi.org/10.3127/ajis.v3i2.383) - outline of different ways of doing case study research in IS, notably using the vocabulary of 'confirmatory' vs. 'exploratory' research ![Open Access paper][Open Access Icon]
 - [Miranda et al. (2022) _MISQ_](https://aisel.aisnet.org/misq/vol46/iss2/4/) - Computationally Intensive Theory Construction [![ResearchGate][ResearchGate Icon]](https://www.researchgate.net/publication/362287700_Computationally_Intensive_Theory_Construction_A_Primer_for_Authors_and_Reviewers)
 - [Sandberg and Alvesson (2010)](https://doi.org/10.1177/1350508410372151) - _Organization_ paper constructing research questions: gap-spotting vs. problematization
-- [Urquhart and Fernández (2013) _JIT_](https://doi.org/10.1057/jit.2012.34) - great overview of Grounded Theory Method (GTM) including "the researcher as blank slate and other myths" [![ResearchGate][ResearchGate Icon]](https://www.researchgate.net/publication/303689247_Using_Grounded_Theory_Method_in_Information_Systems_The_Researcher_as_Blank_Slate_and_Other_Myths)
+- [Urquhart and Fernández (2013) _JIT_](https://doi.org/10.1057/jit.2012.34) - great overview of Grounded Theory Method (GTM) including "the researcher as blank slate and other myths"
 - [Walsham (1995) _EJIS_](https://doi.org/10.1057/ejis.1995.9) and [Walsham (2006) _EJIS_](https://doi.org/10.1057/palgrave.ejis.3000589) - how to do interpretive/interpretivist IS research
 
 ## IS Discipline and IS Editorials
