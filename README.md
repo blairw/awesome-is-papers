@@ -18,7 +18,7 @@ URLs are based on [DOIs](https://en.wikipedia.org/wiki/Digital_object_identifier
 
 ## IT Project Management
 
-- [Ciriello et al. (2022) _I&M_](https://doi.org/10.1016/j.im.2022.103645) - 'becoming agile together' with the customer
+- [Ciriello et al. (2022) _I&M_](https://doi.org/10.1016/j.im.2022.103645) - 'becoming agile together' with the customer [![ResearchGate][ResearchGate Icon]](https://www.researchgate.net/publication/359673811_Becoming_Agile_Together_Customer_Influence_on_Agile_Adoption_within_Commissioned_Software_Teams)
 
 ## Society, Institutions and Power
 
@@ -30,9 +30,9 @@ URLs are based on [DOIs](https://en.wikipedia.org/wiki/Digital_object_identifier
 
 - [Cecez-Kecmanovic and Kennan (2013)](https://www.researchgate.net/publication/236004781_1_Cecez-Kecmanovic_D_Kennan_MA_2013_Chapter_5_The_methodological_landscape_Information_systems_and_knowledge_management_in_Research_Methods_Information_Systems_and_Contexts_Williamson_K_Johanson_G_eds) - book chapter on IS research methods and 'methodological landscape' [![ResearchGate][ResearchGate Icon]](https://www.researchgate.net/publication/236004781_1_Cecez-Kecmanovic_D_Kennan_MA_2013_Chapter_5_The_methodological_landscape_Information_systems_and_knowledge_management_in_Research_Methods_Information_Systems_and_Contexts_Williamson_K_Johanson_G_eds)
 - [Doolin (1996) _AJIS_](https://doi.org/10.3127/ajis.v3i2.383) - outline of different ways of doing case study research in IS, notably using the vocabulary of 'confirmatory' vs. 'exploratory' research ![Open Access paper][Open Access Icon]
-- [Miranda et al. (2022) _MISQ_](https://aisel.aisnet.org/misq/vol46/iss2/4/) - Computationally Intensive Theory Construction
+- [Miranda et al. (2022) _MISQ_](https://aisel.aisnet.org/misq/vol46/iss2/4/) - Computationally Intensive Theory Construction [![ResearchGate][ResearchGate Icon]](https://www.researchgate.net/publication/362287700_Computationally_Intensive_Theory_Construction_A_Primer_for_Authors_and_Reviewers)
 - [Sandberg and Alvesson (2010)](https://doi.org/10.1177/1350508410372151) - _Organization_ paper constructing research questions: gap-spotting vs. problematization
-- [Urquhart and Fernández (2013) _JIT_](https://doi.org/10.1057/jit.2012.34) - great overview of Grounded Theory Method (GTM) including "the researcher as blank slate and other myths"
+- [Urquhart and Fernández (2013) _JIT_](https://doi.org/10.1057/jit.2012.34) - great overview of Grounded Theory Method (GTM) including "the researcher as blank slate and other myths" [![ResearchGate][ResearchGate Icon]](https://www.researchgate.net/publication/303689247_Using_Grounded_Theory_Method_in_Information_Systems_The_Researcher_as_Blank_Slate_and_Other_Myths)
 - [Walsham (1995) _EJIS_](https://doi.org/10.1057/ejis.1995.9) and [Walsham (2006) _EJIS_](https://doi.org/10.1057/palgrave.ejis.3000589) - how to do interpretive/interpretivist IS research
 
 ## IS Discipline and IS Editorials
