@@ -43,6 +43,19 @@ URLs are based on [DOIs](https://en.wikipedia.org/wiki/Digital_object_identifier
   - Notable for the _"affirming that gravity works in my kitchen"_ quote (p. vi)
 - [Sarker et al. (2019) _MISQ_](https://doi.org/10.25300/MISQ/2019/13747) - "sociotechnical axis of cohesion for the IS discipline"
 
+## 1980s seminal works
+
+Curated by Association For Information Systems - India Chapter (INAIS) and posted on LinkedIn at https://www.linkedin.com/posts/association-for-information-systems-india-chapter-inais_1980s-concepts-methodologies-activity-7192187819379859457-RAQW?utm_source=share&utm_medium=member_desktop
+
+- Banville & Landry (1989) _CACM_. Can the Field of MIS be Disciplined? DOI: 10.1145/63238.63241
+- Ives, Hamilton & Davis (1980) _MS_. A framework for research in computer-based management information systems. 10.1287/mnsc.26.9.910
+- Keen (1980) _ICIS_. MIS research: Reference disciplines and a cumulative tradition. http://aisel.aisnet.org/icis1980/9
+- Kriebel & Moore (1982) _DATABASE_. Economics and management information systems. DOI: 10.1145/1017702.1017709
+- Davis (1989) _MISQ_. Perceived usefulness, perceived ease of use, and user acceptance of information technology. DOI: 10.2307/249008
+- Lee (1989) _MISQ_. A scientific methodology for MIS case studies. DOI: 10.2307/248698
+- Straub (1989) _MISQ_. Validating instruments in MIS research. DOI: 10.2307/248922
+
+
 ## Literature Review
 
 - [Boell and Cecez-Kecmanovic (2014) _CAIS_](https://doi.org/10.17705/1CAIS.03412) - hermeneutic approach to IS literature review
